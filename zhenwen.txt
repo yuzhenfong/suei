@@ -1,12 +1,1 @@
-www.visa.com',
-'www.visa.com2096#US',
-'www.okcupid.com',
-'www.visa.com.tw',
-'russia.com',
-'www.ipchicken.com',
-'www.visa.com.sg',
-'2606:4700::',
-'[2606:4700::]:2096#US',
-'127.0.0.1:443#US@notls',
-'[2606:4700:3030:0:4563:5696:a36f:cdc5]:2096#US'
 visa.cn
